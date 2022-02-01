@@ -1,0 +1,2 @@
+# S02_T02_EstructuraMatriu_Imatges_Numpy
+S02_T02_EstructuraMatriu_Imatges_Numpy
